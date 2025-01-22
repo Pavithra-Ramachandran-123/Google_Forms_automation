@@ -52,13 +52,14 @@ Ensure the following are installed on your system:
 1. Clone the repository:
    
    git clone <repository-url>
+
    cd google-form-automation
 
-2. Build the project with Gradle:
+3. Build the project with Gradle:
    
    gradle build
   
-3. Execute the test case:
+4. Execute the test case:
   
    gradle test
   
